@@ -1,8 +1,12 @@
 # Changelog
 
-## Current Version 1.0.5
+## Current Version 1.0.6
 
 ## Last Updated: 02-22-2020
+
+### Version 1.0.6
+
+- UPDATE: Update `tsconfig.json`.
 
 ### Version 1.0.5
 
