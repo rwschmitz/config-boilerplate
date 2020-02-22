@@ -1,5 +1,7 @@
 # Boilerplate Linting and Code Formatting
 
+## Current Version: 1.0.1
+
 ## Last Updated: 02-22-2020
 
 ### Description
