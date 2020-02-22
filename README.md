@@ -1,6 +1,6 @@
 # Boilerplate Linting and Code Formatting
 
-## Current Version: 1.0.3
+## Current Version: 1.0.4
 
 ## Last Updated: 02-22-2020
 
@@ -16,3 +16,7 @@ Instead, I've made my own that I'll be able to reference going forward.
 - This repository will have both a README and CHANGELOG.
 - Both the README and CHANGELOG will be updated with the date this repository was last updated.
 - The CHANGELOG will contain reasoning behind any changes going forward.
+
+### Documentation References
+
+- [@typescript-eslint Getting Started](https://github.com/typescript-eslint/typescript-eslint/blob/master/docs/getting-started/linting/README.md)

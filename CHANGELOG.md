@@ -1,8 +1,12 @@
 # Changelog
 
-## Current Version 1.0.3
+## Current Version 1.0.4
 
 ## Last Updated: 02-22-2020
+
+### Version 1.0.4
+
+- ADD: Documentation references section
 
 ### Version 1.0.3
 
