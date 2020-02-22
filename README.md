@@ -1,6 +1,6 @@
 # Boilerplate Linting and Code Formatting
 
-## Current Version: 1.0.1
+## Current Version: 1.0.2
 
 ## Last Updated: 02-22-2020
 
@@ -14,5 +14,5 @@ Instead, I've made my own that I'll be able to reference going forward.
 
 - This repository will always be the most up to date reference of all my config files.
 - This repository will have both a README and CHANGELOG.
-- Both the README and CHANGELOG will be updated with the date this repoistory was last updated.
+- Both the README and CHANGELOG will be updated with the date this repository was last updated.
 - The CHANGELOG will contain reasoning behind any changes going forward.
